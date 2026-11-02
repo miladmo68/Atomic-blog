@@ -1,68 +1,59 @@
-<h1 align="center">✍ Atomic-Blog</h1>
+<div align="center">
+
+# ⚛️ The Atomic Blog
+
+A blog app used to practise the Context API and performance optimization with memo, useMemo and useCallback.
+
+<a href="https://miladmo68.github.io/Atomic-blog/"><img src="https://img.shields.io/badge/Live_Demo-Open_Site-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/miladmo68/Atomic-blog"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+
+**🔗 Live:** [miladmo68.github.io/Atomic-blog](https://miladmo68.github.io/Atomic-blog/)
+
+</div>
 
 <p align="center">
-  <a href="https://miladmo68.github.io/Atomic-blog/"><b>🔗 Live Demo</b></a> •
-  <a href="https://github.com/miladmo68/Atomic-blog"><b>📦 Repository</b></a>
+  <img src="./.github/preview.jpg" alt="The Atomic Blog screenshot" width="100%" />
 </p>
 
-<p align="center">
-  A React + Vite blog template following atomic design principles. The scaffold provides fast HMR and ESLint & Prettier setup, ready for building a structured, modular blog application.
-</p>
+## ✨ Features
 
----
+- Create and search posts
+- State shared through the Context API
+- Performance tuning with memoization
 
-## ​ Screenshot
+## 🛠️ Tech Stack
 
-<p align="center">
-![Atomic-blog](https://github.com/user-attachments/assets/6bc86cf6-63ca-4dcf-8932-a32a7eeb6c52)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-  </p>
+## 🚀 Getting Started
 
----
+**Prerequisites:** [Node.js](https://nodejs.org/) 18 or newer
 
-## ​ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-latest-orange?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ESLint-configured-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-setup-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-</p>
-
----
-
-## ​ Features
-
-| Feature | Description |
-| ------- | ----------- |
-| **Atomic Design Ready** | Promote scalable component structure using atoms, molecules, and organisms |
-| **Blog Foundation** | Start building blog features like post listing, search, dark mode, etc. |
-| **Fast Dev Experience** | Setup includes Vite with Hot Module Replacement for quick iteration |
-| **Clean Code Setup** | ESLint & Prettier configured for consistent coding and formatting |
-| **Highly Extensible** | Great base for adding features like pagination, markdown rendering, or API integration |
-
----
-
-<p align="center">
-  <b>👨‍💻 Author: Milad Mohammadi</b><br>
-  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
-</p>
-
----
-
-## ​ Getting Started
+**Install and run**
 
 ```bash
-# 1) Clone the repository
 git clone https://github.com/miladmo68/Atomic-blog.git
 cd Atomic-blog
-
-# 2) Install dependencies
 npm install
+npm start
+```
 
-# 3) Run development server
-npm run dev
+## 📁 Project Structure
 
-# 4) Build for production
-npm run build
+```
+Atomic-blog/
+├── public/
+├── src/
+└── package.json
+```
+
+## 👤 Author
+
+**Milad Mohammadi** — Frontend-Focused Full-Stack Developer, Toronto 🇨🇦
+
+[![Website](https://img.shields.io/badge/Website-miladweb.com-FF6A00?style=flat-square&logo=googlechrome&logoColor=white)](https://miladweb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miladmo68-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladmo68/)
+[![GitHub](https://img.shields.io/badge/GitHub-miladmo68-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miladmo68)
+
+<p align="center"><sub>If you like this project, consider giving it a ⭐</sub></p>
